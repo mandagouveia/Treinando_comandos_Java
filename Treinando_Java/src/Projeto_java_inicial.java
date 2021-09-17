@@ -18,7 +18,9 @@ public class Projeto_java_inicial {
 				// saída
 				System.out.println("Então você passará a ganhar: " +sl2);
 				
+				
 			}
+		
 				
 				
 		
